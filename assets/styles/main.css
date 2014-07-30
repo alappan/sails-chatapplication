@@ -1,0 +1,21 @@
+body {
+  background-color: #58488a;
+  color: white;
+}
+
+input {
+  border-radius: 2px;
+  border-color: black;
+  height: 30px;
+  width: 100%;
+}
+
+.btn-custom {
+  width: 100%;
+}
+
+
+textarea {
+  width: 100%;
+  vertical-align: bottom;
+}
