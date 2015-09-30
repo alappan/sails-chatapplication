@@ -6,7 +6,7 @@ From terminal-
 
 -> cd into the directory you'd like to install the app.
 
--> Run "git clone git@github.com:Ajeey/node-sails-chat.git"
+-> Run "https://github.com/alappan/sails-chatapplication.git"
 
 -> cd into the newly created directory.
 
